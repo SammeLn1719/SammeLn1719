@@ -2,10 +2,10 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 # ⚙️ Tech Statistics
-<p style="height:165px">
+<div style="height:165px">
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammeLn1719&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SammeLn1719)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammeLn1719&layout=compact&theme=gotham)](https://github.com/SammeLn1719)
-</p>
+</div>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
