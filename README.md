@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammeLn1719&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SammeLn1719)<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammeLn1719&theme=radical&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/SammeLn1719)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammeLn1719&layout=compact&theme=radical)](https://github.com/SammeLn1719)
 
 # 💻 Tech Stack
