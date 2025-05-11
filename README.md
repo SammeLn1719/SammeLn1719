@@ -2,7 +2,6 @@
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammeLn1719&theme=radical&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/SammeLn1719)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammeLn1719&layout=compact&theme=radical)](https://github.com/SammeLn1719)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -21,6 +20,8 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+# ⚙️ Tech Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammeLn1719&layout=compact&theme=radical)](https://github.com/SammeLn1719)
 <!--
 **SammeLn1719/SammeLn1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
