@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/DOCKER-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Webpack](https://img.shields.io/badge/WEBPACK-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)
+![Webpack](https://img.shields.io/badge/WEBPACK-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 # ⚙️ Tech Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammeLn1719&layout=compact&theme=radical)](https://github.com/SammeLn1719)
