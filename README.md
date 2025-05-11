@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammeLn1719&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SammeLn1719)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SammeLn1719&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SammeLn1719)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
