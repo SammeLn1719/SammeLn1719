@@ -21,16 +21,16 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)<br/>
-
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)<br/>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/DOCKER-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Webpack](https://img.shields.io/badge/WEBPACK-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)<br/>
-
+![Webpack](https://img.shields.io/badge/WEBPACK-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)<br/>
 
 # ⚙️ Tech Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SammeLn1719&layout=compact&theme=gotham)](https://github.com/SammeLn1719)
